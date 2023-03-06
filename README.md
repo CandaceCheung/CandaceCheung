@@ -1,6 +1,6 @@
 ## 👋 G'day, I'm Candace 🐙⚡️
 
-I'm a web developer, currently live in Toronto 🇨🇦. 
+I'm a web developer, currently living in Toronto 🇨🇦. 
 
 ### I use these to make stuff
 
